@@ -1,0 +1,8 @@
+body {
+  background-color: #3e4147;
+  color: rgba(221, 221, 221, 0.932);
+}
+
+.box {
+  border: solid 2px whitesmoke;
+}
